@@ -1,5 +1,5 @@
 # Project2
-IS2043 project
+IS2043 project by Andrew Mares yxi042
 Here are notes I took when working through the project the first time around on 10/3/2020
 
 in "What is bash" my echo $SHELL  shows src/bin/bash
