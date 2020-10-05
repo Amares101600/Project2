@@ -28,4 +28,10 @@ using the backup.sh from the "Untill Loop" does not produce anything but a blank
 
 learned that I can add -A to git add to add all the files to the git
 
-Github didn't like the use of LF and replaced it with CRLF in the .sh files however
+Github didn't like the use of LF and replaced it with CRLF in the .sh files 
+
+10/4/2020
+
+fixed backup, actually backs up to a tar file
+
+
