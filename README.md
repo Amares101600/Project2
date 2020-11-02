@@ -35,3 +35,6 @@ Github didn't like the use of LF and replaced it with CRLF in the .sh files
 fixed backup, actually backs up to a tar file
 
 
+Code Review Jacob Kelly
+
+Code was very clean and easy to read. I didn't notice any errors in the code. I could not find your for loop code. Only suggestion for improvement would be to space before and after operations to make it easier to read. Indentations and everything else were good.
